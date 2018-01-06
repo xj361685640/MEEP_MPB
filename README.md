@@ -1,4 +1,4 @@
-# Project Title
+# Scripts for running MPB and MEEP
 
 Scripts to generate .ctl input files for MPB and MEEP electromagnetic codes to simulate
 photonic topological insulator cavities as in:
@@ -19,8 +19,7 @@ g++ -o scriptName scriptName.cc
 
 ### Dependencies
 
-(Optional) the .cell file can be used to quickly visualize the structure in the generated .ctl
-file using JMol.
+Jmol (optional) can be used to visualize the .cell file representing the structure in the generated .ctl file.
 
 ## Authors
 
