@@ -12,7 +12,10 @@ L. Wu and X. Hu, Phys. Rev. Lett. 114, 223901 (2015)
 
 ## Getting Started
 
-To compile type g++ -o scriptName scriptName.cc
+To compile type 
+```
+g++ -o scriptName scriptName.cc
+```
 
 ### Dependencies
 
